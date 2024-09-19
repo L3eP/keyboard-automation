@@ -98,4 +98,4 @@ sudo chmod 666 /var/log/keebs.log
 - **Logging**: script akan melakukan logging hanya untuk tujuan monitoring.
 - **Resource Usage**: pastikan script tidak memakan sumberdaya terlalu banyak saat dijalankan.
 
- Feel free to customize the device names and paths according to your specific environment!
+ Feel free to initialized the device names and paths according to your specific environment!

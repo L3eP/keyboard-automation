@@ -95,4 +95,4 @@ sudo chmod 666 /var/log/toggle_keyboard.log
 - **Logging**: The script logs actions to a specified log file for monitoring purposes.
 - **Resource Usage**: Monitor resource usage to ensure that the script is not consuming excessive CPU or memory.
 
-Feel free to customize the device names and paths according to your specific environment!
+Feel free to initialized the device names and paths according to your specific environment!
